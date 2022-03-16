@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
-
-title: [Ayphu mi primera página]
-description: [Creación de una página estática utilizando Github Pages con archivo .md]
+language: spanish
+favicon: assets/logo.png
+uistring:
+    title: Ayphu mi primera página # title to appear in nav bar and page meta
+    description: Creación de una página estática utilizando Github Pages con archivo .md # Displays as site description meta tag for site
