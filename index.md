@@ -7,6 +7,8 @@
 * Oscar
 * Jean Carlos
 * Luis Gago
+
+---
 ## Presentación
 Hola, me llamo Jean Carlos Ademir Garcia Palomino, tengo 24 años, actualmente vivo en Nasca-Ica, mis hobbies son: escuchar música, juego videjuegos y constatemente me gusta informarme en programación e informática.
 
