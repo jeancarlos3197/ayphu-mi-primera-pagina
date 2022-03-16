@@ -1,5 +1,7 @@
 # Ayphu mi primera página
 
+![](https://i.imgur.com/DXIje5A.png)
+
 ## Miembros de Ayphu - DevelopPracticing
 * Sintia
 * Adrian
